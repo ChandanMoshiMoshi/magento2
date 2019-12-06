@@ -10,7 +10,7 @@ return [
         'table_prefix' => '',
         'connection' => [
             'default' => [
-                'host' => 'localhost',
+                'host' => 'http://sacredthread.tk/',
                 'dbname' => 'magento2',
                 'username' => 'root',
                 'password' => 'root',
